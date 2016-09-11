@@ -2,4 +2,4 @@
 IOT Repository
 
 Links:
-*http://blog.opensensors.io/
+* http://blog.opensensors.io/
